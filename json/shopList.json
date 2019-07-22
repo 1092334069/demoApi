@@ -1,0 +1,25 @@
+{
+	"code": 200,
+	"data": [{
+		"productId": 1,
+		"productName": "苹果",
+		"productImage": "http://img3.imgtn.bdimg.com/it/u=271284391,2101477220&fm=26&gp=0.jpg",
+		"price": 8.9
+	},{
+		"productId": 2,
+		"productName": "梨",
+		"productImage": "http://img1.imgtn.bdimg.com/it/u=1438489091,3754048470&fm=26&gp=0.jpg",
+		"price": 5.8
+	},{
+		"productId": 3,
+		"productName": "桃子",
+		"productImage": "http://www.chinapoesy.com/UploadFiles/Poesy/20180310_e2f0b929-201a-4883-83a4-12d9cc396fef.jpg",
+		"price": 5.8
+	},{
+		"productId": 4,
+		"productName": "杨桃",
+		"productImage": "http://n.sinaimg.cn/sinacn/w1264h999/20180112/9780-fyqnicm2463305.jpg",
+		"price": 5.8
+	}],
+	"lastId": 4
+}
